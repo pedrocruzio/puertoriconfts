@@ -1,6 +1,6 @@
 <template>
-  <div class="wrapper">
-    <Header />
+  <div class="">
+    <HeaderFull />
     <nuxt />
     <ColorModePicker />
   </div>

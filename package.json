@@ -1,8 +1,8 @@
 {
-  "name": "ntn-boilerplate",
-  "version": "2.1.2",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <hello+dev@svenparker.com> (https://svenparker.com)",
+  "name": "PuertoRicoNFTs",
+  "version": "0.0.1",
+  "description": "NFT Directory for Puerto Rican creators",
+  "author": "Pedro Cruz",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -11,12 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Knogobert/ntn-boilerplate#readme"
+    "url": "https://github.com/pedrocruzio/puertoriconfts#readme"
   },
   "license": "MIT",
   "dependencies": {
     "@nuxt/content": "^1.14.0",
-    "nuxt": "^2.15.8"
+    "nuxt": "^2.15.8",
+    "v-tooltip": "^3.0.0-beta.1",
+    "vue-iframes": "^0.0.16"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^2.1.1",
